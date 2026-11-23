@@ -12,12 +12,8 @@ Supplementary definitions and documentation for the nationwide Danish NICU study
 - `supplementary/supplement_as_submitted.docx`: original supplementary material.
 - `docs/definitions.md`: interpretation notes and methodological caveats.
 
-The CSV files transcribe published supplementary tables. **They are reference tables, not executable phenotype algorithms.** Ranges, asterisks, exclusions, and date-specific organizational changes must be implemented and validated before use.
 
 ## Data availability and confidentiality
 
-Individual-level register data are not included. These data are accessible only within authorized secure research environments. Do not commit microdata, patient identifiers, credentials, or unapproved disclosure-sensitive outputs.
+Individual-level register data are not included. These data are accessible only within authorized secure research environments. 
 
-## Status
-
-Draft repository prepared from the supplied supplementary Word document. Check transcription against the final accepted publication before making this repository public.
