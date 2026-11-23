@@ -10,7 +10,7 @@ The repository provides the organizational identifiers, diagnostic classificatio
 
 ## Repository contents
 
-The repository contains five supplementary tables, provided in machine-readable CSV format.
+The repository contains five supplementary tables, provided in CSV format.
 
 ### 1. Identification of neonatal intensive care units (eTable 1)
 
