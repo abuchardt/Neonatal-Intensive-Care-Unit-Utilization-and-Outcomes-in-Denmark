@@ -1,0 +1,11 @@
+﻿condition,diagnosis_codes_as_published
+"Nontraumatic intraventricular hemorrhage (IVH) in newborn, grade III",P522
+Periventricular cerebral leukomalacia (PVL) in newborn,P912A
+Hydrocephalus,G91*
+Convulsions of newborn,P90*
+Retinopathy of prematurity (ROP),H351
+Primary pulmonary hypertension of the newborn,P293*
+Bronchopulmonary dysplasia (BPD),P271A or P271B
+Necrotizing enterocolitis (NEC) in newborn,P779
+Spontaneous intestinal perforation (SIP) in newborn,P780
+Bacterial sepsis of newborn,P36*

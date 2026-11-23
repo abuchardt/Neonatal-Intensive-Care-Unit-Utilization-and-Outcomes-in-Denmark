@@ -1,0 +1,9 @@
+﻿treatment,procedure_codes_as_published
+Mechanical ventilation,"BGDA*,a"
+Non-invasive ventilation (NIV),BGDA1* or BGFC32M
+Dialysis,BJFD*
+Pharmacological cardiac therapy,BFHC*
+Extracorporeal membrane oxygenation (ECMO),BGXA2
+Continuous positive airway pressure (CPAP),BGFC32 or BGFC32A
+Surfactant treatment,BGHF*
+Therapeutic hypothermia,BMFL38*

@@ -1,0 +1,15 @@
+# Confidential data and local analysis outputs
+data/
+raw-data/
+private/
+*.parquet
+*.rds
+*.RData
+*.Rhistory
+.Rproj.user/
+.Renviron
+.env
+*.sqlite
+*.db
+~$*.docx
+.DS_Store

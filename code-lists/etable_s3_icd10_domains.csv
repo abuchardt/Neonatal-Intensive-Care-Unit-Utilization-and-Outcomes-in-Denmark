@@ -1,0 +1,23 @@
+﻿chapter_and_domain,chapter_description
+I: Infection,Certain infectious and parasitic diseases
+II: Neoplasms,Neoplasms
+III: Blood,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism
+IV: Endocrine,"Endocrine, nutritional and metabolic diseases"
+V: Mental,Mental and behavioural disorders
+VI: Neurology,Diseases of the nervous system
+VII: Eye,Diseases of the eye and adnexa
+VIII: Ear,Diseases of the ear and mastoid process
+IX: Circulatory,Diseases of the circulatory system
+X: Respiratory,Diseases of the respiratory system
+XI: Digestive,Diseases of the digestive system
+XII: Skin & soft tissue,Diseases of the skin and subcutaneous tissue
+XIII: Musculoskeletal,Diseases of the musculoskeletal system and connective tissue
+XIV: Genitourinary,Diseases of the genitourinary system
+XV: Pregnancy,"Pregnancy, childbirth and the puerperium"
+XVI: Perinatal,Certain conditions originating in the perinatal period
+XVII: Malformations,"Congenital malformations, deformations and chromosomal abnormalities"
+"XVIII: Symptoms, signs","Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+XIX: Injury,"Injury, poisoning and certain other consequences of external causes"
+XX: External causes,External causes of morbidity and mortality
+XXI: Other factors,Factors influencing health status and contact with health services
+Special,Codes for special purposes
